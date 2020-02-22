@@ -58,7 +58,7 @@ giaiptbac2::giaiptbac2(int a, int b, int c)
 	this->b=b;
 	this->c=c;
 }
-giaiptbac2::giaiptbac2()
+giaiptbac2()
 {
 }
 int random(int minN, int maxN){
